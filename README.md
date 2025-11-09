@@ -1,3 +1,2 @@
-# BuildCell Builds
-
-This repository hosts prebuilt SDKs for BuildCell (Flutter & Android SDK) for Termux ARM64.
+# buildcell-builds
+Prebuilt BuildCell releases for Termux ARM64.
